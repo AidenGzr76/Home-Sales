@@ -1,2 +1,2 @@
 # Home-Sales
-Task 1 from Goalern
+Task 1 of Goalern
